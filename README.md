@@ -44,26 +44,26 @@ Untuk menjalankan service, cukup ketikkan perintah berikut.
 
 # Fitur
 ## 1. Admin
-### 1.1 Create Paket Penjualan
+### 1.1 List Produk
 
-![alt text](https://github.com/rahadianap/test-griya-net/blob/main/create_paket_penjualan.png?raw=true)
+![alt text](https://github.com/rahadianap/test-rumah-drone/blob/main/admin_product.png?raw=true)
 
-### 1.2 Create Akun Sales
+### 1.2 Export PDF
 
-![alt text](https://github.com/rahadianap/test-griya-net/blob/main/create_sales.png?raw=true)
+![alt text](https://github.com/rahadianap/test-rumah-drone/blob/main/admin_report.png?raw=true)
 
-### 1.3 Export PDF
+## 2. Staff
+### 2.1 List Produk
 
-![alt text](https://github.com/rahadianap/test-griya-net/blob/main/export_pdf.png?raw=true)
+![alt text](https://github.com/rahadianap/test-rumah-drone/blob/main/staff_product.png?raw=true)
 
-### 1.4 Verify Customer
+### 2.2 CRUD Delivery
 
-![alt text](https://github.com/rahadianap/test-griya-net/blob/main/verify_customer.png?raw=true)
+![alt text](https://github.com/rahadianap/test-rumah-drone/blob/main/staff_delivery.png?raw=true)
 
-## 2. Sales
-### 2.1 Create Customer
+### 2.3 Notifikasi Stok Minimum
 
-![alt text](https://github.com/rahadianap/test-griya-net/blob/main/create_customer.png?raw=true)
+![alt text](https://github.com/rahadianap/test-rumah-drone/blob/main/stock_notif.png?raw=true)
 
 # Initial Data
 Untuk login, bisa menggunakan `name: admin` `password: admin123` untuk akses admin atau `name: staff` `password: staff123` untuk akses staff. (Jika sudah import .sql file).
